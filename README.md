@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on business automation using Python.
 - 📫 You can reach me via email at fukasawa.0324@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ My tasks at home are washing dishes, doing laundry, and grocery shopping.
+- ⚡ In my free time, I do strength training and go for walks.
 
 <!---
 fukafuka35/fukafuka35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
